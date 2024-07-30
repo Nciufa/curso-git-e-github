@@ -1,0 +1,1 @@
+Nesta aula eu percebi que o comando certo é git config --global user.email , e não git config --global user.mail
